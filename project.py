@@ -29,7 +29,7 @@ print("Discount")
 if gdr == 'male':
     if age >= 65:
         if total > 210000 and total < 310000:
-         print("Discount is 20%")
+         print("Discount is 25%")
          discount = total * 25 / 100
          final = total - discount
          print(f"Final Price is {total} - {discount} = {final}")
@@ -93,3 +93,4 @@ if gdr == 'female':
             discount = total * 30 / 100
             final = total - discount
             print(f"Final Price is {total} - {discount} = {final}")             
+
