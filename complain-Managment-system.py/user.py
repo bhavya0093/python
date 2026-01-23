@@ -21,7 +21,7 @@ def menu():
                     print("Please Fill All Data.....!")
                 else:
                     complaint(name, category, Des)
-                    print("Complaint Registered ✅")
+                    print("Complaint Registered ")
 
             except Exception as e:
                 print("Error:", e)
@@ -36,4 +36,5 @@ def menu():
             print(feedback(id))
 
         else:
+
             exit("Thank You.....")
