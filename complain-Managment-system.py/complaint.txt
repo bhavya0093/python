@@ -1,3 +1,0 @@
-
-1 | bhavya | mobile | network | In Progress|
-2 | raj | python | python nathi aaavadtatu | Resolved|
